@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Koa request concurrent limit middleware",
   "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "scripts": {
     "test": "make test"
   },
