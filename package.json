@@ -1,6 +1,6 @@
 {
   "name": "koa-concurrent-limit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Koa request concurrent limit middleware",
   "main": "index.js",
   "engines": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dead-horse/koa-limit.git"
+    "url": "git@github.com:perzy/koa-concurrent-limit.git"
   },
   "keywords": [
     "koa",
